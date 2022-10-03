@@ -58,14 +58,14 @@ curl 127.0.0.1:9002/incentivecash+uid: XXXXXXXXXXX
 
 # Hesaplar:
 
-[Twitter](https://twitter.com/mehmetkoltigin)
+[Anatolian Team](https://anatolianteam.com)
 
-[Forum](https://forum.rues.info/index.php)
+[Twitter](https://twitter.commehmetkoltigin)
 
-[Telegram Announcement](https://t.me/RuesAnnouncement)
+[Medium](https://medium.com/@mehmetkoltigin)
 
-[Telegram Chat](https://t.me/RuesChat)
+[YouTube](https://www.youtube.com/channel/UCmLgaftx5e38BE0E7gpY2dA)
 
-[Telegram Node](https://t.me/RuesNode)
+[Discord](https://discordapp.com/users/837933958280904737)
 
-[Telegram Node Chat](https://t.me/RuesNodeChat)
+[Telegram](https://t.me/mehmetkoltigin)
